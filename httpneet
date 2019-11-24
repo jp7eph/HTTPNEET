@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # 
-# Copyright Next Generation Network Development Department, KDDI
+# Copyright Naoki.H
 # 
-# na-horie@kddi.com
+# jp7eph@gmail.com
 
 import re
 import os
